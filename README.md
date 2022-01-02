@@ -1,6 +1,6 @@
-# Learn DesignPattern by Java
+# Learn DesignPattern
 
-DesignPatterns check list.
+Have learnt DesignPatterns check list.
 
 1. Observer Pattern :white_check_mark:
 2. Factory Pattern :white_check_mark:
