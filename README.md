@@ -1,12 +1,19 @@
 # Learn DesignPattern
 
 Have learnt DesignPatterns check list.
-
-1. Abstract Factory Pattern :white_check_mark:
-2. Factory Method Pattern :white_check_mark:
-3. Builder Pattern :white_check_mark:
-4. Prototype Pattern :white_check_mark:
-5. Singleton Pattern :white_check_mark:
-6. Adapter Pattern :white_check_mark:
+<br/>
+<br/>
+:white_check_mark: Abstract Factory Pattern
+<br/>
+:white_check_mark: Factory Method Pattern
+<br/>
+:white_check_mark: Builder Pattern
+<br/>
+:white_check_mark: Prototype Pattern
+<br/>
+:white_check_mark: Singleton Pattern
+<br/>
+:white_check_mark: Adapter Pattern
+<br/>
 
 ※ Check the [Issues tab](https://github.com/tuananhhedspibk/DesignPattern/issues) for the patterns explanation.
