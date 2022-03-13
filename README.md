@@ -17,5 +17,7 @@ Have learnt DesignPatterns check list.
 <br/>
 :white_check_mark: Bridge Pattern
 <br/>
+:white_check_mark: Composite Pattern
+<br/>
 
 ※ Check the [Issues tab](https://github.com/tuananhhedspibk/DesignPattern/issues) for the patterns explanation.
