@@ -2,7 +2,7 @@
 
 All content of this repository is referenced from https://refactoring.guru/design-patterns/book
 
-Have learnt DesignPatterns check list.
+DesignPatterns learning check list.
 <br/>
 <br/>
 **Creational Design Patterns**
