@@ -5,21 +5,55 @@ All content of this repository is referenced from https://refactoring.guru/desig
 Have learnt DesignPatterns check list.
 <br/>
 <br/>
-:white_check_mark: Abstract Factory Pattern
+**Creational Design Patterns**
 <br/>
-:white_check_mark: Factory Method Pattern
+🎉 Abstract Factory Pattern
 <br/>
-:white_check_mark: Builder Pattern
+🎉 Factory Method Pattern
 <br/>
-:white_check_mark: Prototype Pattern
+🎉 Builder Pattern
 <br/>
-:white_check_mark: Singleton Pattern
+🎉 Prototype Pattern
 <br/>
-:white_check_mark: Adapter Pattern
+🎉 Singleton Pattern
 <br/>
-:white_check_mark: Bridge Pattern
 <br/>
-:white_check_mark: Composite Pattern
+**Structural Design Patterns**
+<br/>
+🎉 Adapter Pattern
+<br/>
+🎉 Bridge Pattern
+<br/>
+🎉 Composite Pattern
+<br/>
+🔨 Facade Pattern
+<br/>
+🔨 Flyweight Pattern
+<br/>
+🔨 Proxy Pattern
+<br/>
+<br/>
+**Behavioral Design Patterns**
+<br/>
+🔨 Chain of Responsibility Pattern
+<br/>
+🔨 Command Pattern
+<br/>
+🔨 Iterator Pattern
+<br/>
+🔨 Mediator Pattern
+<br/>
+🔨 Memento Pattern
+<br/>
+🔨 Observer Pattern
+<br/>
+🔨 State Pattern
+<br/>
+🔨 Stategy Pattern
+<br/>
+🔨 Template Method Pattern
+<br/>
+🔨 Visitor Pattern
 <br/>
 
 ※ Check the [Issues tab](https://github.com/tuananhhedspibk/DesignPattern/issues) for the patterns explanation.
