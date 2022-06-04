@@ -1,5 +1,7 @@
 # Learn DesignPattern
 
+All content of this repository is referenced from https://refactoring.guru/design-patterns/book
+
 Have learnt DesignPatterns check list.
 <br/>
 <br/>
