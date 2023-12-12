@@ -32,6 +32,8 @@ DesignPatterns learning check list.
 <br/>
 🔨 Proxy Pattern
 <br/>
+🔨 Decorator Pattern
+<br/>
 <br/>
 **Behavioral Design Patterns**
 <br/>
