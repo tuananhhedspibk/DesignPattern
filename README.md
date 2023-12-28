@@ -32,7 +32,7 @@ DesignPatterns learning check list.
 <br/>
 🔨 Proxy Pattern
 <br/>
-🔨 Decorator Pattern
+🎉 Decorator Pattern
 <br/>
 <br/>
 **Behavioral Design Patterns**
